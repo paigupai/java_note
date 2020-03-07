@@ -1,15 +1,52 @@
 # java_note
 ## JAVA 基础
-1. HashMap 的源码，实现原理； JDK8 做了什么优化
-2. HashMap 扩容机制，为什么都是 2 的 N 次幂
-3. ArrayList 和 Vector 的区别，扩容机制等
-4. CopyOnWriteArrayList 原理
-5. HashSet 和 TreeSet 原理
-6. ArrayBlockingQueue 和 LinkedBlockingQueue 区别
-7. 集合迭代器的原理
-8. 传值和传引用的区别
-9. 动态代理
-10. JDK8 ConcurrentHashMap 的原理
+[java基础全套包括代码实例](https://www.nowcoder.com/tutorial/10001/5fc0c07cd9d44e66b3baafd76f1f5b9f)
+[廖雪峰java教程：集合部分写的非常好](https://www.liaoxuefeng.com/wiki/1252599548343744)
+[计算机科学速成课:40集计算机科学速成课，相当于大学学了计算机原理](https://www.bilibili.com/video/av21376839/)
+[java入门，java零基础自学教程【黑马程序员java教程】](https://www.bilibili.com/video/av80585971)
+
+## JAVA 进阶
+[Java Web 入门开发教程：简单介绍Java Web开发带有代码实例](https://github.com/skyline75489/Heart-First-JavaWeb)
+[Java Web从入门到实战【视频版】](https://space.bilibili.com/434617924/video)
+[快速上手Tomcat部署JavaWeb应用](https://www.bilibili.com/video/av78375180)
+[IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+[LocalDateTime 为什么不要使用Date表示时间](https://www.bilibili.com/read/cv4209561)
+[10个最火的Spring实战开源项目](https://www.bilibili.com/video/av92191212)
+[听说你只会用注解，不会自己写注解？](https://www.bilibili.com/read/cv4802402)
+[Lombok，嗯，真香香香香！](https://www.bilibili.com/read/cv4316739)
+[答应我，别再if/else走天下了可以吗：使用工厂模式代替大量if/else，以及为啥工厂模式更好](https://www.bilibili.com/read/cv4257620)
+[使用GitHub作为个人博客免费图床](https://www.bilibili.com/read/cv4065587)
+[啥？听说你还在手写复杂的参数校验？:如何利用spring的注解校验数据](https://www.bilibili.com/read/cv4308221)
+[包工头都能听明白的前后端分离！](https://www.bilibili.com/video/av90077218)
+[必读计算机编程好书推荐！](https://www.bilibili.com/video/av80660080)
+[为什么我们要面向接口编程？！](https://www.bilibili.com/read/cv4960817)
+
+[一个程序员up的所有常用软件大分享！](https://www.bilibili.com/video/av87731293)
+[SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇](https://www.bilibili.com/video/av38657363)
+[Docker教程](https://www.bilibili.com/video/av81869326)
+
+## JAVA 高阶
+[网路基础——从一条电线到TCP/IP](https://www.bilibili.com/video/av87680753)
+[Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)
+[architect-awesome:后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+[8大Java开源框架spring、Redis、hashmap、dubbo、zookeeper源码分析](https://www.bilibili.com/video/av78794016)
+
+
+## Spring 框架相关
+[Spring Boot 入门系列文章](http://www.ityouknow.com/spring-boot.html)
+[【2020版】4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?p=1)
+
+## 优秀开源项目推荐
+[Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
+[
+free-project-course: 整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等](https://github.com/resumejob/free-project-course)
+[HelloGitHub:每月发布，分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+[halo博客：一个优秀的开源java博客发布应用](https://github.com/halo-dev/halo)
+[科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
+[史上最全的整合第三方登录的开源库](https://github.com/justauth/JustAuth)
+[free-books:互联网上的免费书籍](https://github.com/ruanyf/free-books)
+[CS-Notes](https://github.com/CyC2018/CS-Notes)
+[微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。](https://github.com/paigupai/vhr)
 
 ## 多线程
 1. 创建多线程的方式，以及线程的状态转换
