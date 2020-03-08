@@ -4,6 +4,7 @@
 [廖雪峰java教程：集合部分写的非常好](https://www.liaoxuefeng.com/wiki/1252599548343744)  
 [计算机科学速成课:40集计算机科学速成课，相当于大学学了计算机原理](https://www.bilibili.com/video/av21376839/)  
 [java入门，java零基础自学教程【黑马程序员java教程】](https://www.bilibili.com/video/av80585971)  
+[代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7.md)  
 
 ## JAVA 进阶
 [Java Web 入门开发教程：简单介绍Java Web开发带有代码实例](https://github.com/skyline75489/Heart-First-JavaWeb)  
