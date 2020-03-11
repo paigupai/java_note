@@ -11,6 +11,7 @@
 [Java Web从入门到实战【视频版】](https://space.bilibili.com/434617924/video)  
 [快速上手Tomcat部署JavaWeb应用](https://www.bilibili.com/video/av78375180)  
 [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)  
+[JetBrains 系列软件汉化包](https://github.com/pingfangx/TranslatorX)  
 [LocalDateTime 为什么不要使用Date表示时间](https://www.bilibili.com/read/cv4209561)  
 [10个最火的Spring实战开源项目](https://www.bilibili.com/video/av92191212)  
 [听说你只会用注解，不会自己写注解？](https://www.bilibili.com/read/cv4802402)  
