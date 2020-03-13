@@ -25,6 +25,7 @@
 [一个程序员up的所有常用软件大分享！](https://www.bilibili.com/video/av87731293)  
 [SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇](https://www.bilibili.com/video/av38657363)  
 [Docker教程](https://www.bilibili.com/video/av81869326)  
+[计算机网络知识入门](https://juejin.im/post/5e51febde51d4526c932b390)  
 
 ## JAVA 高阶
 [网路基础——从一条电线到TCP/IP](https://www.bilibili.com/video/av87680753)  
